@@ -25,7 +25,7 @@ app.use(errorhandler());
 
 // Mount your existing apiRouter below at the '/api' path.
 const apiRouter = require('./server/api');
-const homeRouter = require('./server/homeRouter');
+const homeRouter = require('./server/imageRouter');
 
 app.use(homeRouter);
 app.use('/api', apiRouter);
