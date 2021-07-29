@@ -1,6 +1,6 @@
 # This is a project titled *Boss Machine* that was completed as part of Codecademy's back end engineering course
 
-### "Boss Machine" is the title for this interactive website that utilizes an express server to serve up responses to various requests to teach request handling, routes, servers, automatic testing suites, and various other back-end skills. The end result is a simple interactive websites that allows users to get, put, post, and delete data on various web pages. You can launch the website by viewing the index.html page path, or by launching the site at a local port using `node app.js` command in the terminal.
+### "Boss Machine" is the title for this interactive website that utilizes an express server to serve up responses to various requests to teach request handling, routes, servers, automatic testing suites, and various other back-end skills. The end result is a simple interactive websites that allows users to get, put, post, and delete data on various web pages. You can launch the website locally by viewing the index.html page path, or by launching the site at a local port using `node app.js` command in the terminal.
 
 ### Project Overview
 
