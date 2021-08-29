@@ -15,7 +15,7 @@ class Minion extends Component {
     let editing = props.newMinion ? true : false;
     this.state = {
       editing: editing,
-      minion: props.minion,
+      minion: props.minion
     }
   }
 

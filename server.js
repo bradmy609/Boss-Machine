@@ -25,9 +25,9 @@ app.use(errorhandler());
 
 // Mount your existing apiRouter below at the '/api' path.
 const apiRouter = require('./server/api');
-const homeRouter = require('./server/imageRouter');
+const imageRouter = require('./imageRouter');
 
-app.use(homeRouter);
+app.use(imageRouter);
 app.use('/api', apiRouter);
 
 // This conditional is here for testing purposes:
